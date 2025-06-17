@@ -1,16 +1,29 @@
-# consumo_api
+# SADD - Sistema de Apoio ao Desenvolvimento de Dados
 
-A new Flutter project.
+Bem-vindo ao **SADD**, um sistema desenvolvido para facilitar a automação de tarefas, processamento de dados e organização de informações. Este projeto foi pensado para atender demandas específicas, proporcionando praticidade, agilidade e precisão.
 
-## Getting Started
+## 🚀 Funcionalidades
 
-This project is a starting point for a Flutter application.
+- ✅ Processamento automatizado de dados
+- ✅ Geração de relatórios
+- ✅ Manipulação de arquivos (.csv, .xlsx, .txt, etc.)
+- ✅ Criação e organização de pastas
+- ✅ Integração com outros sistemas e APIs
+- ✅ Interface gráfica simples e intuitiva (Tkinter/Python)
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tecnologias Utilizadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- Tkinter (Interface Gráfica)
+- Pandas
+- OpenPyXL
+- OS / Shutil (Manipulação de arquivos e diretórios)
+- Outros módulos Python
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🖥️ Prints da Interface
+
+> *(Adicione aqui imagens do seu sistema rodando. Para adicionar, use o seguinte markdown após enviar as imagens para o repositório)*
+
+```markdown
+![Tela Inicial](./images/tela_inicial.png)
+![Exemplo de Processamento](./images/processamento.png)
