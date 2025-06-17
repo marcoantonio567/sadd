@@ -1,29 +1,27 @@
-# SADD - Sistema de Apoio ao Desenvolvimento de Dados
+# SADD
 
-Bem-vindo ao **SADD**, um sistema desenvolvido para facilitar a automação de tarefas, processamento de dados e organização de informações. Este projeto foi pensado para atender demandas específicas, proporcionando praticidade, agilidade e precisão.
+Aplicativo desenvolvido em **Flutter**. Este projeto tem como objetivo [coloque aqui uma breve descrição do objetivo do app, exemplo: "gerenciar dados, realizar consultas e exibir informações de forma eficiente e prática"].
+
+## 📱 Tecnologias
+
+- Flutter
+- Dart
+- Provider (Gerenciamento de Estado)
+- Firebase (se utilizado)
+- Intl (Internacionalização)
+- Hive (Banco de dados local)
+- Outras dependências listadas no `pubspec.yaml`
 
 ## 🚀 Funcionalidades
 
-- ✅ Processamento automatizado de dados
-- ✅ Geração de relatórios
-- ✅ Manipulação de arquivos (.csv, .xlsx, .txt, etc.)
-- ✅ Criação e organização de pastas
-- ✅ Integração com outros sistemas e APIs
-- ✅ Interface gráfica simples e intuitiva (Tkinter/Python)
+- 🔑 Login e autenticação de usuários
+- 📊 Consulta e exibição de dados em tempo real
+- ⭐ Gerenciamento de favoritos
+- 🔍 Pesquisa de informações
+- 🌐 Suporte a múltiplos idiomas (pt-BR, en, etc.)
+- 💾 Armazenamento local com Hive (se configurado)
+- 🎨 Interface responsiva e adaptativa
+- ☁️ Integração com serviços externos (APIs)
 
-## 🛠️ Tecnologias Utilizadas
+## 📂 Estrutura do Projeto
 
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- Tkinter (Interface Gráfica)
-- Pandas
-- OpenPyXL
-- OS / Shutil (Manipulação de arquivos e diretórios)
-- Outros módulos Python
-
-## 🖥️ Prints da Interface
-
-> *(Adicione aqui imagens do seu sistema rodando. Para adicionar, use o seguinte markdown após enviar as imagens para o repositório)*
-
-```markdown
-![Tela Inicial](./images/tela_inicial.png)
-![Exemplo de Processamento](./images/processamento.png)
